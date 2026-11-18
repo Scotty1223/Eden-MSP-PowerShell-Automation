@@ -1,0 +1,9 @@
+TicketID,Employee,Department,Issue,Priority,Status,AssignedTo
+INC1001,James Wilson,Legal,Outlook Not Opening,High,Open,Prescott
+INC1002,Sarah Johnson,Finance,Password Reset,Medium,Resolved,Prescott
+INC1003,Michael Brown,IT,VPN Connection Failed,High,In Progress,Prescott
+INC1004,Jennifer Wilson,Legal,Printer Not Working,Low,Open,Technician2
+INC1005,David Smith,Legal,Laptop Running Slowly,Medium,Open,Technician2
+INC1006,Emily Davis,Finance,Shared Drive Access Denied,High,Open,Prescott
+INC1007,Robert Taylor,Legal,Microsoft Teams Audio Issue,Low,Resolved,Technician2
+INC1008,Ashley Moore,Administration,New Employee Setup,Medium,In Progress,Prescott

@@ -1,15 +1,25 @@
-# Generated reports
+# Generated CSV reports
 *Report.csv
 *Summary.csv
+*Workload.csv
 *Audit.csv
 
-# Credentials and sensitive files
+# Cloud identity reports
+CloudIdentityReport.csv
+EntraIdentityAudit.csv
+
+# Credentials
 .env
 .env.*
 *.pem
 *.key
 *.pfx
 *.p12
+*credentials*
+*secrets*
 
 # macOS
 .DS_Store
+
+# Logs
+*.log
