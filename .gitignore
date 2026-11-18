@@ -1,0 +1,15 @@
+# Generated reports
+*Report.csv
+*Summary.csv
+*Audit.csv
+
+# Credentials and sensitive files
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+
+# macOS
+.DS_Store
